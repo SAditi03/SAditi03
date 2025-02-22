@@ -1,14 +1,21 @@
-# 💫 About Me:
-Hi there! 👋 I'm Aditi, an enthusiastic Java Developer eager to build dynamic and efficient applications. I'm currently pursuing my Master of Computer Applications (MCA) at Harcourt Butler Technical University (HBTU) and continuously expanding my technical knowledge.
+# 💫 About Me:  
+Hi there! 👋 I'm **Aditi**, an enthusiastic **Java Developer** eager to build dynamic and efficient applications.  
+I'm currently pursuing my **Master of Computer Applications (MCA)** at **Harcourt Butler Technical University (HBTU)** and continuously expanding my technical knowledge.  
 
-💡 What I Know:
+💡 **What I Know:**  
+- 👨‍💻 **Programming**: Java, HTML, CSS, JavaScript  
+- 🗄️ **Database Management**: MySQL  
+- 🌐 **Web Development**: Frontend & Backend Basics  
+- ⚙️ **Version Control**: Git, GitHub  
 
-👨‍💻 Programming: Java, HTML, CSS, JavaScript
-🗄️ Database Management: MySQL
-🌐 Web Development: Frontend & Backend Basics
-⚙️ Version Control: Git, GitHub
-🚀 Currently Learning: Blockchain Technology & Docker
-🎯 Looking for: Entry-Level Java Developer | Backend Developer | Software Developer
+🚀 **Currently Learning:**  
+- Blockchain Technology  
+- Docker  
+
+🎯 **Looking for:**  
+- Entry-Level **Java Developer**  
+- **Backend Developer**  
+- **Web Developer**  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditi-shukla-b08771219/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditiamethi85@gmail.com) 
