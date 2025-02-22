@@ -44,7 +44,7 @@
 ###
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/SAditi03/SAditi03/output/snake.svg" alt="Snake animation" />
+
 ![Snake animation](https://github.com/SAditi03/SAditi03/blob/output/github-snake.svg)
 
 
